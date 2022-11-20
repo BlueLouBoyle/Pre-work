@@ -1,2 +1,2 @@
 # Pre-work
-My firs Git-Hub repository.
+My first Git-Hub repository.
